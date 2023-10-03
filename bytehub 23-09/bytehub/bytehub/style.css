@@ -1,0 +1,231 @@
+.cabeçalho{
+    background-color: #1A1A1A;
+    text-align: center;
+    font-size: 20px;
+    color: red;
+    
+}
+.rodape{
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    bottom: 0;
+    width: 90%;
+    height: 110px;    
+    text-align: left;
+    color: rgb(0, 0, 0);
+}
+.endereco{
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+.numero{
+    text-align: right;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+.banner{
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+.card{
+    background-color:#2e2e2e ;
+    display: flex;
+    color: white;
+}
+.logo{
+    text-align: left;
+}
+body{
+    background-color: #2e2e2e;
+}
+.entrar{
+    display: inline-table;
+    padding: 20px;
+    border-color: rgb(255, 255, 255);
+    border: 1px;
+}
+.atendimento{
+    display: inline-table;
+    padding: 20px;
+}
+.carrinho{
+    display: inline-table;
+    padding: 20px;
+}
+.frete{
+    display: inline-table;
+    padding: 20px;
+}
+
+#all{
+    background-color: rgb(5, 5, 5);
+    display: block;
+    padding: 80px;
+    padding-bottom: 100px;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.everything{
+    padding: 10px;
+    
+    margin-bottom: 20px;
+    background-color: #161616;
+    
+}
+.conteudo{
+    display: contents;
+    text-align: center;
+}
+
+button{
+    background-color: rgb(255, 0, 0);
+    width: 400px;
+    height: 40px;
+    margin-left: 30px;
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    border-radius: 8px;
+}
+.cardtudo{
+    display: flex;
+    padding: 60px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-bottom: 10px;
+}
+.cabeçalho2{
+    background-color: #1A1A1A;
+    text-align: center;
+    font-size: 20px;
+    color: red;
+}
+footer{
+    position: absolute;
+    padding: 40px;
+    
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    
+}
+.descricao{
+    text-align: right;
+}
+.titu1{
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    color: rgb(255, 0, 0);
+    width: 200px;
+    height: 50px;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(255, 255, 255);
+    font-size: medium;
+    border-radius: 8px;
+    
+    
+    
+}
+.botao1{
+    background-color: rgb(255, 0, 0);
+    height: 25px;
+    width: 200px;
+    border-radius: 50px;
+    font-size: x-large;
+    color: white;
+    display: table;
+    margin-left: 25px;
+    text-align: center;
+}
+
+#val{
+    border-radius: 5px;
+    width: 355px;
+    text-align: center;
+    background-color: #2e2e2e;
+    color: #be0000;
+
+}
+#Frete{
+    color: #be0000;
+    text-align: center;
+    border-radius: 5px;
+
+    background-color: #2e2e2e;
+}
+#CEP{
+    text-align: center;
+    border-radius: 5px;
+    background-color: #2e2e2e;
+    color: #be0000;
+   
+}
+#all2{
+    display: inline-block;
+    justify-content: center;
+    background-color:#161616;
+    padding: 20px;
+    
+}
+#try{
+    text-align: left;
+    width: 100%;
+    
+}
+
+
+.descricao{
+    display: inline-block;
+    text-align: right;
+    justify-content: right;
+    float: right;
+    
+    
+}
+#try2{
+
+    display: inline-block;
+    text-align: center;
+    justify-content: left;
+    float: left;
+    color: #be0000;
+    margin-bottom: 20px;
+}
+
+.menu{
+    color: #be0000;
+    background-color: #2e2e2e;
+    padding: 4px;
+    border-radius: 5px;
+}
+
+.card{
+    
+    
+}
+
+#FreteI{
+    background-color: #be0000;
+}
+#FreteR{
+    background-color: #0f0f0f;
+}
+
+#tabela{
+    background-color: #2e2e2e;
+    color: white;
+}
+
+
+
+
